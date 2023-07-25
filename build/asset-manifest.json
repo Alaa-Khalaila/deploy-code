@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.735cc8b3.css",
+    "main.js": "/static/js/main.654d7395.js",
+    "static/media/car.png": "/static/media/car.0bb5ad1ead0749171b9c.png",
+    "static/media/f1.png": "/static/media/f1.17f63e75a79fc7a8740c.png",
+    "static/media/1.png": "/static/media/1.ba9283dc065e081a0cf6.png",
+    "static/media/logo.png": "/static/media/logo.e1baca322aaf5b492021.png",
+    "static/media/3.png": "/static/media/3.15bbddb4dbf5a7090832.png",
+    "static/media/5.png": "/static/media/5.5063197b3d7be48957aa.png",
+    "static/media/6.png": "/static/media/6.62f1af15583f75cff05c.png",
+    "static/media/4.png": "/static/media/4.8021a269357858e9c42a.png",
+    "static/media/2.png": "/static/media/2.5226b797d4a31e355d35.png",
+    "static/media/alaa.png": "/static/media/alaa.fc803385d0fb0ce6540a.png",
+    "static/media/jo.png": "/static/media/jo.824577d363a5611d2445.png",
+    "static/media/mit_logo.png": "/static/media/mit_logo.6aeb4fe56c32716c9d7c.png",
+    "static/media/7.jpeg": "/static/media/7.ed83f3103504b729b55d.jpeg",
+    "static/media/8.jpeg": "/static/media/8.12e196a20a131722f5f0.jpeg",
+    "static/media/9.jpeg": "/static/media/9.860fe3075c9bb6a6d1f9.jpeg",
+    "static/media/card_bg.webp": "/static/media/card_bg.eabec71e86421ef670d3.webp",
+    "static/media/phone-call.svg": "/static/media/phone-call.fe10ac185a4869bfd899bee84bdba690.svg",
+    "index.html": "/index.html",
+    "static/media/location.svg": "/static/media/location.1c2af36ec5f1c1b0f4eb238f4dff923a.svg",
+    "static/media/envelope.svg": "/static/media/envelope.56b0fd8c957dbca7dfbba07ff80f6f28.svg",
+    "main.735cc8b3.css.map": "/static/css/main.735cc8b3.css.map",
+    "main.654d7395.js.map": "/static/js/main.654d7395.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.735cc8b3.css",
+    "static/js/main.654d7395.js"
+  ]
+}
